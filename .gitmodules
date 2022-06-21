@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MIWilson"]
+	path = MIWilson
+	url = https://github.com/hungf8342/miwilson
+	shallow = true
+	registered = true
